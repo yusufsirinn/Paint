@@ -1,6 +1,10 @@
-# paint
+# Painter
 
-A new Flutter project.
+- Color
+- Stroke
+- Clear
+
+![image](https://raw.githubusercontent.com/yusufexak/Painter/master/appimage.png)
 
 ## Getting Started
 
