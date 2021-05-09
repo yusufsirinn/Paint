@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:paint/View/paint_view.dart';
-import 'Bloc/PaintSetting/paint_cubit.dart';
+import 'Bloc/Paint/paint_cubit.dart';
 
 void main() {
   runApp(MyApp());

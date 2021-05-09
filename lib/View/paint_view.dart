@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:paint/Bloc/PaintSetting/paint_cubit.dart';
-import 'package:paint/Bloc/PaintSetting/paint_state.dart';
+import 'package:paint/Bloc/Paint/paint_cubit.dart';
+import 'package:paint/Bloc/Paint/paint_state.dart';
 import 'package:paint/Constants/app_constants.dart';
 import 'package:paint/Painter/custom_painter.dart';
 import 'package:paint/Widgets/selected_color.dart';
