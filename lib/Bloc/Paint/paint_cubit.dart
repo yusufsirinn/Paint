@@ -18,9 +18,10 @@ class PaintCubit extends Cubit<PaintModel> {
   void draw(Offset? offset) {
     if(offset == null){
       state.points.add(null);
+      return;
     }
     state.points.add(Point(
-      offset!,
+      offset,
       Paint()
         ..color = state.color
         ..isAntiAlias = true
