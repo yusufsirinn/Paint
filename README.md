@@ -1,4 +1,4 @@
-# Painter
+# Paint
 
 - Color
 - Stroke
