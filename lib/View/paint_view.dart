@@ -65,6 +65,14 @@ class _PaintViewState extends State<PaintView> {
                             context.read<PaintCubit>().stroke(value);
                           },
                         ),
+                        Slider(
+                          min: 0,
+                          max: 1,
+                          value: state.opacity,
+                          onChanged: (value) {
+                            context.read<PaintCubit>().opacity(value);
+                          },
+                        ),
                         ElevatedButton(onPressed: (){
                           context.read<PaintCubit>().clear();
                         }, child: Text("Clear"))
