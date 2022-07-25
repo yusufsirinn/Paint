@@ -6,7 +6,7 @@
 
 ![image](https://raw.githubusercontent.com/yusufexak/Painter/master/appimage.png)
 
-[Web Site](https://yusufexak.github.io/Paint-Web/#/)
+[Web Site](https://yusufsirinn.github.io/Paint-Web/#/)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
